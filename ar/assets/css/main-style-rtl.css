@@ -1,0 +1,35 @@
+body{font-family:'Bahij TheSansArabic';text-align:right}
+h1,h2,h3,h4,h5,h6{font-family:'Bahij TheSansArabic';text-transform:none;font-weight:700}
+.mt-navigation ul li:last-child{margin-left:10px}
+.mt-form .mt-title:after{left:-40px;right:auto}
+.mt-form{text-align:right}
+.mt-btn{margin:20px 0 20px 20px}
+.mt-side_image{left:auto;right:-50px}
+.mt-form_wrap .mt-form{border-radius:15px 0 0 15px;padding:100px 0 100px 35px}
+.mt-form_wrap:before{right:-119px;left:auto;border-radius:0 15px 15px 0}
+.mt-contact_info ul li a i{margin:5px 0 0 10px}
+.mt-footer_title:after{left:auto;right:0}
+.mt-footer_content{text-align:right}
+.mt-contact_icons .fa{margin:0 0 0 10px}
+.mt-title:after{right:auto;left:-50px}
+.hamburger-wrap{right:auto;left:20px}
+.mt-select:after{right:auto;left:15px}
+.mt-login_box [type="checkbox"]:not(:checked),.mt-login_box [type="checkbox"]:checked{right:-9999px;left:0}
+.mt-login_box [type="checkbox"]:not(:checked) + label:before,.mt-login_box [type="checkbox"]:checked + label:before{left:auto;right:0}
+.mt-login_box [type="checkbox"]:not(:checked) + label,.mt-login_box [type="checkbox"]:checked + label{padding:0 1.95em 0 0}
+.mt-login_box [type="checkbox"]:not(:checked) + label:after,.mt-login_box [type="checkbox"]:checked + label:after{left:auto;right:2px}
+.mt-select input{border-radius:50px 0 0 50px}
+.mt-form_section .mt-input,.mt-form_section .mt-select select,.mt-form_wrap{text-align:right}
+.mt-login_icon{margin:0 50px 0 0}
+.mt-account_form .mt-select input{border-radius:0 50px 50px 0}
+.mt-account_form .mt-select .mt-amount{border-radius:50px 0 0 50px;border-left:2px solid #a6a6a6;border-right:0}
+.mt-radio label{margin:0 10px 15px 30px}
+.mt-edit_product .mt-radio h5{margin:0 0 0 10px}
+.mt-book_storage .mt-select input{border-radius:0 50px 50px 0}
+.mt-book_storage .mt-select.mt-quantity select{border-radius:50px 0 0 50px;border-left:2px solid;border-right:0}
+@media (max-width: 991px) {
+.mt-social_icon_wrap{margin-left:50px}
+}
+@media (max-width: 767px) {
+thead tr{right:-9999px;left:0}
+}
